@@ -1,0 +1,1 @@
+# docker-go-imagemagick7
